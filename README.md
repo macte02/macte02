@@ -12,6 +12,10 @@ row houses, and around 10% median error in Helsinki, Espoo and Vantaa.
 
 <a href="https://github.com/macte02/asuntovahti"><img src="https://raw.githubusercontent.com/macte02/asuntovahti/main/assets/estimate_vs_actual.png" width="480" alt="Housing model: estimate vs actual price"></a>
 
+**[What a fault does to a car's price](https://github.com/macte02/car-fault-prices)**: how much an engine
+light, rust or a gearbox problem takes off a used car's price, measured on 21,911 sold Finnish auction
+cars. On a car worth 2,000 €, an engine warning light costs about 466 €.
+
 **Used-car deal finder** (private repo): watches new private-seller listings, works out each car's exact
 model generation from its plate and flags anything listed €1,500+ under comparable sales. We've bought 30+
 cars through it at LT Auto.
