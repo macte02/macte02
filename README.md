@@ -20,11 +20,13 @@ cars. On a car worth 2,000 €, an engine warning light costs about 466 €.
 model generation from its plate and flags anything listed €1,500+ under comparable sales. We've bought 30+
 cars through it at LT Auto.
 
-**Creator tools** (private repo): a DaVinci Resolve panel that bakes spring/ease animations into Fusion
-keyframes, plus some retention analytics scripts. Cut my routine production time by 30%+.
+**YouTube retention model + creator tools** (private repo): an NLP model that reads a video's transcript and
+predicts where viewers drop off; on videos it never saw, its top flags are real drop-offs twice as often as
+chance. Plus a DaVinci Resolve panel that bakes spring animations into Fusion keyframes, which cut my routine
+production time by 30%+.
 
 ### Stack
 
-Python, PyTorch, CatBoost, scikit-learn, pandas · C++ / CUDA · Scala · JavaScript · SQL · Docker, Git, Linux
+Python, PyTorch, CatBoost, LightGBM, scikit-learn, sentence-transformers, pandas · C++ / CUDA · Scala · JavaScript · SQL · Docker, Git, Linux
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/mac-teppo).
