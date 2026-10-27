@@ -18,7 +18,8 @@ cars. On a car worth 2,000 €, an engine warning light costs about 466 €.
 
 **Used-car deal finder** (private repo): watches new private-seller listings, works out each car's exact
 model generation from its plate and flags anything listed €1,500+ under comparable sales. We've bought 30+
-cars through it at LT Auto.
+cars through it at LT Auto. The same repo now has a Telegram bot that writes our auction listings: send it a
+plate, photos and a few notes and it comes back with a ready-to-review draft.
 
 **YouTube retention model + creator tools** (private repo): an NLP model that reads a video's transcript and
 predicts where viewers drop off; on videos it never saw, its top flags are real drop-offs twice as often as
